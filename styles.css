@@ -5,3 +5,9 @@
 .img {
   float:left;
 }
+.sidebar {
+  float: right;
+  background-color: yellow;
+  border-style: solid;
+  border-color: #000000;
+}
